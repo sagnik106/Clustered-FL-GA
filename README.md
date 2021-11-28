@@ -7,6 +7,20 @@
 The work exlpores the application of **Genetic Algorithm** and **DBSCAN clustering** for efficient training and communication in **Federated Learning**.  
  
  
+### Citation
+
+If you use this code, cite this paper
+```
+@article{agrawal2021genetic,
+  title={Genetic CFL: Hyperparameter Optimization in Clustered Federated Learning},
+  author={Agrawal, Shaashwat and Sarkar, Sagnik and Alazab, Mamoun and Maddikunta, Praveen Kumar Reddy and Gadekallu, Thippa Reddy and Pham, Quoc-Viet},
+  journal={Computational Intelligence and Neuroscience},
+  volume={2021},
+  year={2021},
+  publisher={Hindawi}
+}
+```
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
